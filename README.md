@@ -1,4 +1,4 @@
-# blockcahin
+# blockchain
 This is my first big project, I created a simulated blockchain
 
 
